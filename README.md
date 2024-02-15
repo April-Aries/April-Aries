@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=april-aries&show_icons=true&locale=en" alt="april-aries" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=april-aries&" alt="april-aries" /></p>
+<p><img align="center" src="https://leetcard.jacoblin.cool/Tp61i6m6_AA?theme=forest&font=Iceland" alt="april-aries" /></p>
