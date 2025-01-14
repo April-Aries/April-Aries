@@ -1,7 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Luke</h1>
-<h3 align="center">A junior in National Taiwan Normal University major in Computer Science and Information Engineering</h3>
-
-- 🔭 I’m currently working on [CLHS delicatessen online order system](https://github.com/CLHS-Delicatessen-Online-Order-System)
+<h3 align="center">A senior in National Taiwan Normal University major in Computer Science and Information Engineering</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/April-Aries](https://github.com/April-Aries)
 
